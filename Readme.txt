@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is Stephen's site.
 
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+services and blog
