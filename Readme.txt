@@ -1,3 +1,6 @@
 This is Stephen's site.
 
-services and blog
+Linux System Administrator Projects
+
+
+Windows System Administrator Projects
