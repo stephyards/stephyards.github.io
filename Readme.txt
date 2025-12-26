@@ -1,6 +1,6 @@
-This is Stephen's site.
+Thanks for downloading this template!
 
-Linux System Administrator Projects
-
-
-Windows System Administrator Projects
+Template Name: DevFolio
+Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
